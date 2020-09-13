@@ -1,3 +1,3 @@
 # Adaptive-Euler-Elastica-Image-Inpainting
 ## Code of the paper:
-An Adaptive Image Inpainting Method Based on Euler's Elastica with Adaptive Parameters Estimation and the Discrete Gradient Method. Signal Processing, 2020. Doi: https://doi.org/10.1016/j.sigpro.2020.107797
+Thanh, D. N. H., Prasath, V. B. S., Dvoenko, S., & Hieu, L. M. (2021). An adaptive image inpainting method based on euler’s elastica with adaptive parameters estimation and the discrete gradient method. Signal Processing, 178, 107797. Elsevier BV. Retrieved from https://doi.org/10.1016%2Fj.sigpro.2020.107797
